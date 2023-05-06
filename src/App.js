@@ -22,6 +22,7 @@ function App() {
       <Header>Expense Tracker</Header>
       <HomeComponent />
       </Container>
+      <h4>Created By: Shakeel Khuhro</h4>
     </div>
   );
 }
