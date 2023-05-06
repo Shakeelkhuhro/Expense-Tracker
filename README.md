@@ -18,9 +18,10 @@ To install the app, follow these steps.
 1. Run npm start to start the application
 
 i-e 
-**1. git clone https://github.com/your-username/expense-tracker.git
+1. git clone https://github.com/your-username/expense-tracker.git
 1. cd expense-tracker
-1. npm install**
+1. npm install
+1. npm start
 
 
 ## Technologies
