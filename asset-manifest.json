@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/https;//shakeelkhuhro.github.io/Expense-Tracker/static/css/main.e6c13ad2.css",
-    "main.js": "/https;//shakeelkhuhro.github.io/Expense-Tracker/static/js/main.cca26885.js",
-    "index.html": "/https;//shakeelkhuhro.github.io/Expense-Tracker/index.html",
-    "main.e6c13ad2.css.map": "/https;//shakeelkhuhro.github.io/Expense-Tracker/static/css/main.e6c13ad2.css.map",
-    "main.cca26885.js.map": "/https;//shakeelkhuhro.github.io/Expense-Tracker/static/js/main.cca26885.js.map"
+    "main.css": "/Expense-Tracker/static/css/main.e6c13ad2.css",
+    "main.js": "/Expense-Tracker/static/js/main.c65e3b09.js",
+    "index.html": "/Expense-Tracker/index.html",
+    "main.e6c13ad2.css.map": "/Expense-Tracker/static/css/main.e6c13ad2.css.map",
+    "main.c65e3b09.js.map": "/Expense-Tracker/static/js/main.c65e3b09.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cca26885.js"
+    "static/js/main.c65e3b09.js"
   ]
 }
