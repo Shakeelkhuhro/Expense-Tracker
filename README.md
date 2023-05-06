@@ -31,4 +31,4 @@ This app was built using the following technologies:
 Contributions are welcome! If you'd like to contribute to this project, please open an issue or a pull request on GitHub.
 
 ## Contact
-If you have any questions or feedback, feel free to contact me at shakeelahmedkhu@example.com.
+If you have any questions or feedback, feel free to contact me at shakeelahmedkhu@gmail.com.
